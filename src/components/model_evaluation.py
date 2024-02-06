@@ -7,7 +7,7 @@ import os
 import sys
 from sklearn.model_selection import train_test_splits
 from dataclasses import dataclass
-from pathlib import path
+from pathlib import Path
 
 
 @dataclass

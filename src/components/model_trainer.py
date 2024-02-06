@@ -5,10 +5,9 @@ from src.exception.exception import customexception
 
 import os
 import sys
-from sklearn.model_selection import train_test_splits
 from dataclasses import dataclass
-from pathlib import path
-
+from pathlib import Path
+from.src.utils.utils import save_object,evaluate_model
 
 @dataclass
 class DataIngestionCongig:
