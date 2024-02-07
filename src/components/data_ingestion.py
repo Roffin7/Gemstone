@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from src.logger.logging import logging
 from src.exception.exception import customexception
-
 import os
 import sys
 from sklearn.model_selection import train_test_splits
@@ -11,7 +10,7 @@ from pathlib import Path
 
 
 @dataclass
-class DataIngestionCongig:
+class DataIngestionConfig:
     pass
 
 class DataIngestion:

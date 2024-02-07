@@ -9,15 +9,16 @@ from dataclasses import dataclass
 from pathlib import Path
 from.src.utils.utils import save_object,evaluate_model
 
+
 @dataclass
-class DataIngestionCongig:
+class ModelTrainerConfig:
     pass
 
-class DataIngestion:
+class ModelTrainer:
     def __init__(self):
         pass
 
-    def initiate_data_ingestion(self):
+    def initiate_model_traning(self):
         try:
             pass
         except Exception as e:

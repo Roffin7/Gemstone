@@ -14,14 +14,14 @@ from sklearn.preprocessing import OrdinalEncoder,StandardScaler
 from src.utils.utils import save_object
 
 @dataclass
-class DataTransformationCongig:
+class DataTransformationConfig:
     pass
 
 class DataTransformation:
     def __init__(self):
         pass
 
-    def initiate_data_ingestion(self):
+    def get_data_transformation(self):
         try:
             pass
         except Exception as e:
