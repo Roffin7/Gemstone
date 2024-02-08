@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPS/END/Gemstone/src/pipeline/mlruns/0/547d0bb4c7c24fbfbccf929154b72270/artifacts
+end_time: 1707397140873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 547d0bb4c7c24fbfbccf929154b72270
+run_name: luxuriant-slug-21
+run_uuid: 547d0bb4c7c24fbfbccf929154b72270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707397132833
+status: 3
+tags: []
+user_id: Roffin Jason
